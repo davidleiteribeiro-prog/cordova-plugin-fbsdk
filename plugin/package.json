@@ -6,8 +6,7 @@
     "id": "cordova-plugin-fbsdk",
     "platforms": [
       "android",
-      "ios",
-      "browser"
+      "ios"
     ]
   },
   "repository": {
@@ -24,7 +23,6 @@
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios",
-    "cordova-browser",
     "facebook-sdk",
     "social",
     "sharing"
